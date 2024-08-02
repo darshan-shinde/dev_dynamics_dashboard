@@ -1,0 +1,17 @@
+.dashboard {
+  padding: 20px;
+  margin: 0 auto;
+}
+
+.charts {
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+}
+
+.chart-container {
+  padding: 20px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
